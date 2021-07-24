@@ -52,7 +52,7 @@ else:
 
 # depth of UNet = 4
 learning_rate = 1e-4
-epoch_number = 200
+epoch_number = 100
 batch_size = 64 
 train_size = 100 # divide train:val by 70:30 probably
 aug_train_size = 500
@@ -65,7 +65,7 @@ dice_alpha = 1e-3 # maybe try 1e-4 and 1.0
 pretrained = True
 pretrained_model = 'unet'
 freeze_layers = 1 # for pretrained model
-name = 'j_test200'
+name = '1stRealJob100'
 PATH = os.path.join(os.getcwd(),'models/',name+'.pt')
 bestPATH = os.path.join(os.getcwd(),'models/best_model_'+name+'.pt')
 
