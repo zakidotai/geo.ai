@@ -1,0 +1,465 @@
+===============================
+2418294.pbshpc
+vsky031.hpc.iitd.ac.in
+===============================
+GPU is available!
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.730, cur:    0.730)
+Loss
+	loss             	 (min:    0.173, max:    0.173, cur:    0.173)
+Loss decreased (1000000000.000000 --> 0.173482).  Saving model ...
+Iteration: 1 /50  ;  Training Loss: 0.173482 ; Jaccard Score: 0.729837 ; Val Training Loss: 0.137715 ; Val Jaccard Score: 0.877494 ; Time consumed: 18m 17s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.743, cur:    0.743)
+Loss
+	loss             	 (min:    0.164, max:    0.173, cur:    0.164)
+Loss decreased (0.173482 --> 0.164294).  Saving model ...
+Iteration: 2 /50  ;  Training Loss: 0.164294 ; Jaccard Score: 0.742720 ; Val Training Loss: 0.135374 ; Val Jaccard Score: 0.881332 ; Time consumed: 12m 55s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.743, cur:    0.732)
+Loss
+	loss             	 (min:    0.164, max:    0.173, cur:    0.171)
+Iteration: 3 /50  ;  Training Loss: 0.171206 ; Jaccard Score: 0.732483 ; Val Training Loss: 0.152109 ; Val Jaccard Score: 0.855918 ; Time consumed: 11m 42s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.749, cur:    0.749)
+Loss
+	loss             	 (min:    0.160, max:    0.173, cur:    0.160)
+Loss decreased (0.164294 --> 0.159835).  Saving model ...
+Iteration: 4 /50  ;  Training Loss: 0.159835 ; Jaccard Score: 0.749336 ; Val Training Loss: 0.156267 ; Val Jaccard Score: 0.848950 ; Time consumed: 11m 27s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.749, cur:    0.730)
+Loss
+	loss             	 (min:    0.160, max:    0.175, cur:    0.175)
+Iteration: 5 /50  ;  Training Loss: 0.174519 ; Jaccard Score: 0.729648 ; Val Training Loss: 0.181810 ; Val Jaccard Score: 0.811089 ; Time consumed: 11m 25s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.749, cur:    0.741)
+Loss
+	loss             	 (min:    0.160, max:    0.175, cur:    0.165)
+Iteration: 6 /50  ;  Training Loss: 0.165266 ; Jaccard Score: 0.741463 ; Val Training Loss: 0.153098 ; Val Jaccard Score: 0.855687 ; Time consumed: 11m 22s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.749, cur:    0.735)
+Loss
+	loss             	 (min:    0.160, max:    0.175, cur:    0.169)
+Iteration: 7 /50  ;  Training Loss: 0.169316 ; Jaccard Score: 0.735297 ; Val Training Loss: 0.168511 ; Val Jaccard Score: 0.832059 ; Time consumed: 11m 26s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.752, cur:    0.752)
+Loss
+	loss             	 (min:    0.159, max:    0.175, cur:    0.159)
+Loss decreased (0.159835 --> 0.158762).  Saving model ...
+Iteration: 8 /50  ;  Training Loss: 0.158762 ; Jaccard Score: 0.751603 ; Val Training Loss: 0.166762 ; Val Jaccard Score: 0.835983 ; Time consumed: 11m 16s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.755, cur:    0.755)
+Loss
+	loss             	 (min:    0.157, max:    0.175, cur:    0.157)
+Loss decreased (0.158762 --> 0.156537).  Saving model ...
+Iteration: 9 /50  ;  Training Loss: 0.156537 ; Jaccard Score: 0.754686 ; Val Training Loss: 0.163108 ; Val Jaccard Score: 0.838646 ; Time consumed: 11m 16s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.755, cur:    0.738)
+Loss
+	loss             	 (min:    0.157, max:    0.175, cur:    0.168)
+Iteration: 10 /50  ;  Training Loss: 0.168070 ; Jaccard Score: 0.738219 ; Val Training Loss: 0.164814 ; Val Jaccard Score: 0.837774 ; Time consumed: 11m 26s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.755, cur:    0.741)
+Loss
+	loss             	 (min:    0.157, max:    0.175, cur:    0.166)
+Iteration: 11 /50  ;  Training Loss: 0.165725 ; Jaccard Score: 0.740743 ; Val Training Loss: 0.171687 ; Val Jaccard Score: 0.828820 ; Time consumed: 11m 31s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.755, cur:    0.746)
+Loss
+	loss             	 (min:    0.157, max:    0.175, cur:    0.162)
+Iteration: 12 /50  ;  Training Loss: 0.162355 ; Jaccard Score: 0.745916 ; Val Training Loss: 0.144272 ; Val Jaccard Score: 0.867464 ; Time consumed: 11m 20s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.755, cur:    0.741)
+Loss
+	loss             	 (min:    0.157, max:    0.175, cur:    0.165)
+Iteration: 13 /50  ;  Training Loss: 0.165366 ; Jaccard Score: 0.741306 ; Val Training Loss: 0.145250 ; Val Jaccard Score: 0.865324 ; Time consumed: 10m 58s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.755, cur:    0.743)
+Loss
+	loss             	 (min:    0.157, max:    0.175, cur:    0.165)
+Iteration: 14 /50  ;  Training Loss: 0.164609 ; Jaccard Score: 0.742679 ; Val Training Loss: 0.134937 ; Val Jaccard Score: 0.881823 ; Time consumed: 11m 13s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.755, cur:    0.738)
+Loss
+	loss             	 (min:    0.157, max:    0.175, cur:    0.168)
+Iteration: 15 /50  ;  Training Loss: 0.167517 ; Jaccard Score: 0.738412 ; Val Training Loss: 0.147917 ; Val Jaccard Score: 0.861592 ; Time consumed: 11m 13s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.755, cur:    0.751)
+Loss
+	loss             	 (min:    0.157, max:    0.175, cur:    0.159)
+Iteration: 16 /50  ;  Training Loss: 0.159239 ; Jaccard Score: 0.750833 ; Val Training Loss: 0.147967 ; Val Jaccard Score: 0.862748 ; Time consumed: 11m 6s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.766, cur:    0.766)
+Loss
+	loss             	 (min:    0.149, max:    0.175, cur:    0.149)
+Loss decreased (0.156537 --> 0.149481).  Saving model ...
+Iteration: 17 /50  ;  Training Loss: 0.149481 ; Jaccard Score: 0.765630 ; Val Training Loss: 0.174606 ; Val Jaccard Score: 0.821769 ; Time consumed: 14m 17s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.766, cur:    0.758)
+Loss
+	loss             	 (min:    0.149, max:    0.175, cur:    0.155)
+Iteration: 18 /50  ;  Training Loss: 0.154545 ; Jaccard Score: 0.757949 ; Val Training Loss: 0.143445 ; Val Jaccard Score: 0.869289 ; Time consumed: 15m 25s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.766, cur:    0.741)
+Loss
+	loss             	 (min:    0.149, max:    0.175, cur:    0.166)
+Iteration: 19 /50  ;  Training Loss: 0.165879 ; Jaccard Score: 0.741186 ; Val Training Loss: 0.151356 ; Val Jaccard Score: 0.856235 ; Time consumed: 11m 3s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.766, cur:    0.755)
+Loss
+	loss             	 (min:    0.149, max:    0.175, cur:    0.156)
+Iteration: 20 /50  ;  Training Loss: 0.156263 ; Jaccard Score: 0.755200 ; Val Training Loss: 0.134929 ; Val Jaccard Score: 0.883480 ; Time consumed: 10m 54s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.766, cur:    0.756)
+Loss
+	loss             	 (min:    0.149, max:    0.175, cur:    0.156)
+Iteration: 21 /50  ;  Training Loss: 0.155985 ; Jaccard Score: 0.755563 ; Val Training Loss: 0.149105 ; Val Jaccard Score: 0.861058 ; Time consumed: 11m 1s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.766, cur:    0.741)
+Loss
+	loss             	 (min:    0.149, max:    0.175, cur:    0.166)
+Iteration: 22 /50  ;  Training Loss: 0.165599 ; Jaccard Score: 0.741267 ; Val Training Loss: 0.154236 ; Val Jaccard Score: 0.851521 ; Time consumed: 10m 54s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.766, cur:    0.756)
+Loss
+	loss             	 (min:    0.149, max:    0.175, cur:    0.156)
+Iteration: 23 /50  ;  Training Loss: 0.155800 ; Jaccard Score: 0.755828 ; Val Training Loss: 0.139137 ; Val Jaccard Score: 0.874937 ; Time consumed: 10m 53s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.775)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.144)
+Loss decreased (0.149481 --> 0.143783).  Saving model ...
+Iteration: 24 /50  ;  Training Loss: 0.143783 ; Jaccard Score: 0.774605 ; Val Training Loss: 0.150094 ; Val Jaccard Score: 0.857570 ; Time consumed: 10m 59s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.754)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.157)
+Iteration: 25 /50  ;  Training Loss: 0.156673 ; Jaccard Score: 0.754174 ; Val Training Loss: 0.173126 ; Val Jaccard Score: 0.830118 ; Time consumed: 11m 11s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.749)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.160)
+Iteration: 26 /50  ;  Training Loss: 0.160371 ; Jaccard Score: 0.748807 ; Val Training Loss: 0.138007 ; Val Jaccard Score: 0.876190 ; Time consumed: 11m 16s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.753)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.158)
+Iteration: 27 /50  ;  Training Loss: 0.157690 ; Jaccard Score: 0.752737 ; Val Training Loss: 0.135981 ; Val Jaccard Score: 0.879996 ; Time consumed: 11m 18s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.759)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.154)
+Iteration: 28 /50  ;  Training Loss: 0.153667 ; Jaccard Score: 0.758869 ; Val Training Loss: 0.155417 ; Val Jaccard Score: 0.850132 ; Time consumed: 11m 5s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.768)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.147)
+Iteration: 29 /50  ;  Training Loss: 0.147397 ; Jaccard Score: 0.768222 ; Val Training Loss: 0.157116 ; Val Jaccard Score: 0.848074 ; Time consumed: 10m 57s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.761)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.152)
+Iteration: 30 /50  ;  Training Loss: 0.152069 ; Jaccard Score: 0.761264 ; Val Training Loss: 0.154509 ; Val Jaccard Score: 0.851387 ; Time consumed: 10m 50s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.753)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.157)
+Iteration: 31 /50  ;  Training Loss: 0.157353 ; Jaccard Score: 0.753332 ; Val Training Loss: 0.153606 ; Val Jaccard Score: 0.857003 ; Time consumed: 10m 49s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.740)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.166)
+Iteration: 32 /50  ;  Training Loss: 0.166356 ; Jaccard Score: 0.739541 ; Val Training Loss: 0.171507 ; Val Jaccard Score: 0.834333 ; Time consumed: 10m 45s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.759)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.154)
+Iteration: 33 /50  ;  Training Loss: 0.153961 ; Jaccard Score: 0.758728 ; Val Training Loss: 0.168755 ; Val Jaccard Score: 0.831988 ; Time consumed: 10m 53s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.763)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.151)
+Iteration: 34 /50  ;  Training Loss: 0.151193 ; Jaccard Score: 0.762675 ; Val Training Loss: 0.130664 ; Val Jaccard Score: 0.888731 ; Time consumed: 10m 48s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.758)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.154)
+Iteration: 35 /50  ;  Training Loss: 0.154209 ; Jaccard Score: 0.758144 ; Val Training Loss: 0.164750 ; Val Jaccard Score: 0.836924 ; Time consumed: 10m 45s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.761)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.152)
+Iteration: 36 /50  ;  Training Loss: 0.151943 ; Jaccard Score: 0.761137 ; Val Training Loss: 0.158628 ; Val Jaccard Score: 0.848754 ; Time consumed: 10m 48s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.765)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.150)
+Iteration: 37 /50  ;  Training Loss: 0.149758 ; Jaccard Score: 0.764569 ; Val Training Loss: 0.154456 ; Val Jaccard Score: 0.851397 ; Time consumed: 10m 45s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.758)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.154)
+Iteration: 38 /50  ;  Training Loss: 0.154148 ; Jaccard Score: 0.758397 ; Val Training Loss: 0.145428 ; Val Jaccard Score: 0.864741 ; Time consumed: 10m 49s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.763)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.151)
+Iteration: 39 /50  ;  Training Loss: 0.151096 ; Jaccard Score: 0.763281 ; Val Training Loss: 0.138061 ; Val Jaccard Score: 0.879840 ; Time consumed: 10m 51s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.774)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.144)
+Iteration: 40 /50  ;  Training Loss: 0.144308 ; Jaccard Score: 0.773693 ; Val Training Loss: 0.139188 ; Val Jaccard Score: 0.875534 ; Time consumed: 10m 57s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.765)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.149)
+Iteration: 41 /50  ;  Training Loss: 0.149431 ; Jaccard Score: 0.765224 ; Val Training Loss: 0.147988 ; Val Jaccard Score: 0.862313 ; Time consumed: 10m 53s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.767)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.149)
+Iteration: 42 /50  ;  Training Loss: 0.148773 ; Jaccard Score: 0.766842 ; Val Training Loss: 0.145247 ; Val Jaccard Score: 0.867093 ; Time consumed: 10m 52s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.769)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.147)
+Iteration: 43 /50  ;  Training Loss: 0.147180 ; Jaccard Score: 0.768989 ; Val Training Loss: 0.145008 ; Val Jaccard Score: 0.869206 ; Time consumed: 10m 51s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.775, cur:    0.750)
+Loss
+	loss             	 (min:    0.144, max:    0.175, cur:    0.160)
+Iteration: 44 /50  ;  Training Loss: 0.159978 ; Jaccard Score: 0.749723 ; Val Training Loss: 0.143867 ; Val Jaccard Score: 0.868168 ; Time consumed: 10m 51s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.776, cur:    0.776)
+Loss
+	loss             	 (min:    0.143, max:    0.175, cur:    0.143)
+Loss decreased (0.143783 --> 0.142584).  Saving model ...
+Iteration: 45 /50  ;  Training Loss: 0.142584 ; Jaccard Score: 0.776302 ; Val Training Loss: 0.143852 ; Val Jaccard Score: 0.869471 ; Time consumed: 10m 50s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.776, cur:    0.762)
+Loss
+	loss             	 (min:    0.143, max:    0.175, cur:    0.152)
+Iteration: 46 /50  ;  Training Loss: 0.151573 ; Jaccard Score: 0.762116 ; Val Training Loss: 0.126537 ; Val Jaccard Score: 0.895808 ; Time consumed: 10m 52s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.779, cur:    0.779)
+Loss
+	loss             	 (min:    0.141, max:    0.175, cur:    0.141)
+Loss decreased (0.142584 --> 0.140533).  Saving model ...
+Iteration: 47 /50  ;  Training Loss: 0.140533 ; Jaccard Score: 0.779381 ; Val Training Loss: 0.162707 ; Val Jaccard Score: 0.839758 ; Time consumed: 10m 52s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.779, cur:    0.773)
+Loss
+	loss             	 (min:    0.141, max:    0.175, cur:    0.144)
+Iteration: 48 /50  ;  Training Loss: 0.144413 ; Jaccard Score: 0.772679 ; Val Training Loss: 0.154078 ; Val Jaccard Score: 0.852585 ; Time consumed: 10m 50s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.779, cur:    0.759)
+Loss
+	loss             	 (min:    0.141, max:    0.175, cur:    0.153)
+Iteration: 49 /50  ;  Training Loss: 0.153414 ; Jaccard Score: 0.759178 ; Val Training Loss: 0.162009 ; Val Jaccard Score: 0.842867 ; Time consumed: 10m 52s 
+HBox(children=(IntProgress(value=0, max=8), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, max=7), HTML(value='')))
+
+[2K[2Kaccuracy
+	accuracy         	 (min:    0.730, max:    0.779, cur:    0.776)
+Loss
+	loss             	 (min:    0.141, max:    0.175, cur:    0.143)
+Iteration: 50 /50  ;  Training Loss: 0.142680 ; Jaccard Score: 0.775983 ; Val Training Loss: 0.137375 ; Val Jaccard Score: 0.877860 ; Time consumed: 10m 51s 
+Finished Training
