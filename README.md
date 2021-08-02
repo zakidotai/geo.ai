@@ -6,3 +6,4 @@
 4. Uploaded the models also in the directory "models".
 5. New model added having Jaccard score of 0.769
 6. Visualization of prediction on test dataset added.
+7. Jaccard score of 0.794 achieved using ensembles and LCNN loss for the models
