@@ -1,4 +1,4 @@
-# geo.ai
+# geo.ai : Image segmentation: Electrical Substations segmentation from satellite imagery using U-Net
 
 1. Code added to visualise dataset. Run data_visualization.ipynb and fix the mask overlay for better visualization.
 2. Added the mask overlay on images functionality to visualise the ground truth.	
